@@ -6,12 +6,12 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/startpage/issues"><img src="https://img.shields.io/github/issues/catppuccin/startpage?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Amodrinth"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/startpage?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
   <a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/startpage/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="assets/preview.png"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
@@ -35,7 +35,7 @@
 
 ## 💝 Current Maintainer(s)
 
-- [DarkModeDevotee](https://github.com/DarkModeDevotee)
+
 
 
 ## 💖 Past Maintainer(s)
